@@ -5,7 +5,6 @@ Hacking facebook account is targeted by bruteforce method
 ```
 $ pkg install python2
 $ pip2 install requests mechanize
-$ pip install requests mechanize
 $ git clone https://github.com/AuthenticXploit/Brute-FB-Target
 $ cd Brute-FB-Target
 $ python2 Brutetarget.py
@@ -13,7 +12,7 @@ $ python2 Brutetarget.py
 # Installations linux
 ```
 $ sudo apt install git python2
-$ pip install requests mechanize 
+$ pip2 install requests mechanize 
 $ git clone https://github.com/AuthenticXploit/Brute-FB-Target
 $ cd Brute-FB-Target
 $ python2 Brutetarget.py
