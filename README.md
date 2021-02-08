@@ -17,3 +17,5 @@ $ git clone https://github.com/AuthenticXploit/BruteFB-Target
 $ cd BruteFB-Target
 $ python2 BruteTarget.py
 ```
+# wordlist tools
+https://github.com/AuthenticXploit/Wordlist
